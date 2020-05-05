@@ -1,0 +1,3 @@
+    function runGalery() {
+        Android.runGalery();
+    }

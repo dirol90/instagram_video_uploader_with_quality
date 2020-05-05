@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Insta Video Uploader and Downloader</string>
+    <string name="subscribe">GET FREE\n30 DAYS TRIAL</string>
+    <string name="splash_text">You can upload video or images throw camera and plus icons. \nYou can download any images or videos from stories.</string>
+
+    <string name="facebook_app_id">483285785621058</string>
+    <string name="fb_login_protocol_scheme">fb483285785621058</string>
+
+</resources>

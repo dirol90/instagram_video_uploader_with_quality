@@ -1,0 +1,3 @@
+    function openCamera() {
+        Android.openCamera();
+    }
